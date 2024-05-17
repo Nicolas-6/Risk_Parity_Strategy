@@ -1,5 +1,5 @@
 yfinance
 matplotlib
-re
+regex
 pandas
 numpy
